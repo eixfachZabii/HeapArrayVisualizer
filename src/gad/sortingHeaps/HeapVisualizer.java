@@ -43,7 +43,7 @@ public class HeapVisualizer {
 
     public static void main(String[] args) {
         Result result = new StudentResult();
-        NaryHeap heap = new NaryHeap(new int[]{10, 15, 20, 17, 25},2,result);
+        NaryHeap heap = new NaryHeap(new int[]{10, 15, 20, 17, 25}, 2, result);
         printHeap(heap.getHeap(), heap.getHeap().length);
     }
 }

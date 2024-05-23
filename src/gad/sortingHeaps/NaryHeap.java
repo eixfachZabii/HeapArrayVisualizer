@@ -9,6 +9,10 @@ public class NaryHeap {
 
     }
 
+    public static void heapSort(int[] array, int dimension, Result result) {
+
+    }
+
     public int[] getHeap() {
         return null;
     }
@@ -30,10 +34,6 @@ public class NaryHeap {
     }
 
     public void merge(NaryHeap other) {
-
-    }
-
-    public static void heapSort(int[] array, int dimension, Result result) {
 
     }
 }
