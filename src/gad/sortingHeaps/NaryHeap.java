@@ -1,6 +1,7 @@
 package gad.sortingHeaps;
 
 public class NaryHeap {
+    //insert your code
     public NaryHeap(int[] values, int dimension, Result result) {
 
     }
