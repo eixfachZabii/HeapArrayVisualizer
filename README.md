@@ -1,7 +1,3 @@
-## Note
-
-This tool is currently a basic helper and only supports binary trees. Contributions to extend its functionality to support N-ary trees are welcome!
-
 # Heap Array Visualizer
 
 This repository provides a Heap Array Visualizer tool that visualizes a heap array as a binary tree. Similar to the tests for GAD exercises at TUM, this visualizer is designed to aid in understanding and testing heap data structures.
@@ -16,30 +12,27 @@ This tool is meant to assist in understanding and testing heap data structures. 
 
    ```bash
    git clone https://github.com/eixfachZabii/HeapArrayVisualizer.git
-   ```
-
-2. **Navigate to the project directory:**
+   
+2. Navigate to the project directory:
 
    ```bash
    cd HeapArrayVisualizer
-   ```
 
-3. **Paste your own Nary Heap implementation in `NaryHeap.java`:**
+3. Paste the visualizer code into your own repository:
 
-   Ensure to provide your N-ary Heap implementation in the `NaryHeap.java` file. This tool currently supports only binary trees.
+Ensure you integrate the visualizer code from this repository into your own project's repository where your N-ary Heap implementation resides. Specifically, paste the visualizer code into the appropriate files in your project.
 
-4. **Enter a heap array in HeapVisualizer main method.**
+4. Enter a heap array in the HeapVisualizer main method.
 
-5. **Run the visualizer:**
+5. Run the visualizer:
 
-   ```bash
+    ```bash
    java HeapVisualizer
-   ```
-
+    
 ## How to Contribute
 
-- Fork the repository ([GitHub Documentation](https://docs.github.com/en/get-started/quickstart/fork-a-repo))
-- Add or edit features as needed
-- Ensure no solutions or proprietary code are revealed
-- Commit and push to your fork repository
-- Open a Pull Request to this repository and wait for review from another contributor
+Fork the repository (GitHub Documentation)
+Add or edit features as needed
+Ensure no solutions or proprietary code are revealed
+Commit and push to your fork repository
+Open a Pull Request to this repository and wait for review from another contributor
