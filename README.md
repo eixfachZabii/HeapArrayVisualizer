@@ -31,8 +31,8 @@ Ensure you integrate the visualizer code from this repository into your own proj
     
 ## How to Contribute
 
-Fork the repository (GitHub Documentation)
-Add or edit features as needed
-Ensure no solutions or proprietary code are revealed
-Commit and push to your fork repository
-Open a Pull Request to this repository and wait for review from another contributor
+- Fork the repository (GitHub Documentation)
+- Add or edit features as needed
+- Ensure no solutions or proprietary code are revealed
+- Commit and push to your fork repository
+- Open a Pull Request to this repository and wait for review from another contributor
