@@ -1,5 +1,3 @@
-package gad.sortingHeaps;
-
 public class HeapVisualizer {
 
     public static void printHeap(int[] heap, int heapSize) {
